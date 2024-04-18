@@ -16,7 +16,7 @@ Config - `addons/counterstrikesharp/configs/plugins/KVSK_X`
 {
   "TagServer": "[KvsK]",         //Глобальный тег
   "ShowHUD": 1,                  // Худ на кол-во игроков. 
-  "SetHealt": 3,                // Установка HP в начале раунда 
+  "SetHealt": 35,                // Установка HP в начале раунда 
   "ConfigVersion": 1
 }
 ```
