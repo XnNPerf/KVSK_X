@@ -21,4 +21,4 @@ Config - `addons/counterstrikesharp/configs/plugins/KVSK_X`
 }
 ```
 
-<a href="https://github.com/roflmuffin/CounterStrikeSharp">CounterStrikeSharp</a> Tested v213
+<a href="https://github.com/roflmuffin/CounterStrikeSharp">CounterStrikeSharp</a> Tested v270+
