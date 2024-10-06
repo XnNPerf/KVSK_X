@@ -1,14 +1,7 @@
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Core;
-using System.Text.RegularExpressions;
-using CounterStrikeSharp.API.Core.Attributes.Registration;
-using CounterStrikeSharp.API.Modules.Commands;
-using CounterStrikeSharp.API.Modules.Utils;
 using CounterStrikeSharp.API.Modules.Config;
-using CounterStrikeSharp.API.Modules.Admin;
 using System.Drawing;
-using Modularity;
-using CounterStrikeSharp.API.Modules.Entities.Constants;
 
 namespace KVSK_X;
 public class KVSK_X : BasePlugin, IPluginConfig<PluginConfig>
@@ -16,7 +9,7 @@ public class KVSK_X : BasePlugin, IPluginConfig<PluginConfig>
     /*author*/
     public override string ModuleAuthor => "XnN.Prod";
     public override string ModuleName => "35HP KVK X";
-    public override string ModuleVersion => "v0.0.3";
+    public override string ModuleVersion => "v0.0.4";
     public override string ModuleDescription => "Plugin for 35HP Servers.";
     //
     public string PluginTag = "[KvsK]";
